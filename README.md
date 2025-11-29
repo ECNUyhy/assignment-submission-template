@@ -15,8 +15,10 @@
 ## 实验
 
 ### 实验环境
-* 硬件：集群配置，包括节点数 **(>=3)**、CPU 核数、内存大小、网络带宽、存储类型（SSD / HDD）等。
-
+<img width="1909" height="595" alt="image" src="https://github.com/user-attachments/assets/7e0e8727-b4b3-42a7-ab9e-808bac12408c" />
+* 硬件：集群配置，包括节点数 **(>=3)**、CPU 核数、内存大小、网络带宽、存储类型（SSD / HDD）等如图。
+  
+JDK-11.0.23 、flink-1.17.2
 * 软件：操作系统、JDK 版本、各框架版本等。
 
 ### 实验负载
