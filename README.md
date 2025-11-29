@@ -15,6 +15,8 @@
 ## 实验
 
 ### 实验环境
+<img width="1909" height="595" alt="image" src="https://github.com/user-attachments/assets/127f9f16-ec1a-4344-9486-d720f36b591e" />
+
 * 硬件：集群配置，包括节点数 **(>=3)**、CPU 核数、内存大小、网络带宽、存储类型（SSD / HDD）等。
 
 * 软件：操作系统、JDK 版本、各框架版本等。
